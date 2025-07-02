@@ -1,4 +1,4 @@
-## 🐍 Nepal Snake Identifier - Quick Start Guide
+## Nepal Snake Identifier - Quick Start Guide
 
 ### 📦 How to Run
 
@@ -25,7 +25,7 @@ This program can identify **26 of the most common snake species found in Nepal**
 
 ---
 
-### 🐍 Supported Snake Species
+### Supported Snake Species
 
 - Ahaetulla nasuta  
 - Amphiesma stolatum  

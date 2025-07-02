@@ -6,7 +6,7 @@
 2. **Place all three files** in the **same folder**:
    - `app.py`
    - `requirements.txt`
-   - `best_efficientv2m.pth`
+   - [`best_efficientv2m.pth`](mailto:mail.anyplace645@passinbox.com)
 3. Open your terminal and install dependencies:
    ```bash
    pip install -r requirements.txt
